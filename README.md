@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lakshya Tulsyan
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me tulsyanlakshya009@gmail.com
 - 🤖 Would love to learn new topics
