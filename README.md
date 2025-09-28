@@ -5,7 +5,8 @@ I am currently looking for **2026 Full-Time Software Engineer, AI Engineer, and 
 ---
 
 ## 🎓 Education  
-- **The University of Hong Kong (HKU)** — BEng in Computer Science (Final Year, Class of 2026)  
+- **The University of Hong Kong (HKU)** — BEng in Computer Science (Final Year, Class of 2026)
+- **Northeastern University - Boston** — Exchange Student
 
 ---
 
