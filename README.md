@@ -9,7 +9,7 @@ I am interested in building scalable software systems, AI-powered products, back
 ## 🎓 Education  
 
 - **The University of Hong Kong (HKU)** — BEng in Computer Science, Final Year, Class of 2026  
-  - CGPA: 3.69 / 4.3
+  - CGPA: 3.68 / 4.3
 
 - **Northeastern University, Boston** — Exchange Semester
   - Coursework included Operating Systems, Algorithms, and Artificial Intelligence
